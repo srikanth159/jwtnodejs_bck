@@ -1,5 +1,5 @@
-`backend was developed using node js and express js`
-`mongodb was used as database for it `
+`backend was developed using node js and express js`<br>
+`mongodb was used as database for it `<br>
 `.env was used to store the credentials `
 `In config folder connectivity was defined and in controllers all crud operations were defined admin all the logic for admin login and category to insert,delete,update the categories and in user all user operations related crud operations were defined, and in user all user crud operations were defined  and in videos all related crud operation were defined`
 `In Models all schemas for database is defined for admin,user,category and were videos were defned`
